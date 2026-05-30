@@ -133,16 +133,7 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Raghu0033&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu0033&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+# 📊 GitHub Analytics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raghu0033&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu0033&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 ---
 
 # 🔥 GitHub Streak
